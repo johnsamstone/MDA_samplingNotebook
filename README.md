@@ -11,7 +11,7 @@ Please direct any questions to Sam Johnstone, johnsamstone@gmail.com, private ci
 Johnstone, S.A., Schwartz, T.M., and Holm-Denoma, C.S., 2019, A Stratigraphic Approach to Inferring Depositional Ages From Detrital Geochronology Data: Frontiers in Earth Science, v. 7, no. April, doi: 10.3389/feart.2019.00057.
 
 **PLEASE NOTE**
-The original publication above contained an error in Figures 2 and 3, where the values of $k_c$ where all off by 1 (e.g., what was labelled $k_c$ = 3 should have been $k_c$ = 2, what was labelled $k_c$ = 2 should have been $k_c$ = 1, and so on. This notebook has the corrected version of those figures, and a corrigendum to that article is being prepared. 
+The original publication above contained an error in Figures 2 and 3, where the values of k_c where all off by 1 (e.g., what was labelled k_c = 3 should have been k_c = 2, what was labelled k_c = 2 should have been k_c = 1, and so on. This notebook has the corrected version of those figures, and a corrigendum to that article is being prepared. 
 
 **Requirements**
 This notebook requires matplotlib and numpy (in addition to a Python 3 version configured for Jupyter notebooks). This is probably most easily set up with anaconda.
