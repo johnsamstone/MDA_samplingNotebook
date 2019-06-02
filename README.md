@@ -6,7 +6,7 @@ Often, these young grains are used to limit the ages of sedimentary deposits; wh
 
 Through some interactive plots, simulations, and analytical calculations this notebook explores the question 'How often can we expect to observe young zircon grains in detrital deposits?'. 
 
-Please direct any questions to Sam Johnstone, johnsamstone@gmail.com, private citizen and individual that likes to experiment with these sorts of things on his free time. Some of these analysis were used in the following paper:
+Please direct any questions to Sam Johnstone, johnsamstone@gmail.com, an individual that likes to experiment with these sorts of things on his free time when he is not conducting his official duties. Some of these analysis were used in the following paper:
 
 Johnstone, S.A., Schwartz, T.M., and Holm-Denoma, C.S., 2019, A Stratigraphic Approach to Inferring Depositional Ages From Detrital Geochronology Data: Frontiers in Earth Science, v. 7, no. April, doi: 10.3389/feart.2019.00057.
 
